@@ -1,1 +1,1 @@
-# Smart-study-planner
+# Smart-study-planner prjt expo
